@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on projects on Web and App development 
 - 📫 How to reach me ...
-Mail : ritiksethi21@gmail.com
+- Mail : ritiksethi21@gmail.com
 Contact : +919053191376
