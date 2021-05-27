@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ritik Sethi,Student at NIT Kurukshetra.
 - 👀 I’m interested in exploring new domains. 
-- 🌱 I’m currently learning Web Development.
+- 🌱 I’m currently learning and practicing Web Development.
 - 💞️ I’m looking to collaborate on projects of Web Development. 
 - 📫 How to reach me🎶....
 - Mail : ritiksethi21@gmail.com
