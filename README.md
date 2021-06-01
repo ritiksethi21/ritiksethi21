@@ -2,6 +2,7 @@
 - 👀 I’m interested in exploring new domains. 
 - 🌱 I’m currently learning and practicing Web Development.
 - 💞️ I’m looking to collaborate on projects of Web Development. 
+- 💬 Ask me about anything I'm happy to help🤝
 - 📫 How to reach me🎶....
 - Mail : ritiksethi21@gmail.com
 - Contact : +919053191376
