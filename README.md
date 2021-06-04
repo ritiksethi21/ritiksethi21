@@ -1,12 +1,5 @@
 ![Capture](https://user-images.githubusercontent.com/58940080/120515776-48711200-c3ec-11eb-8014-d6df1e8d08da.PNG)
-- 👋 Hi, I’m Ritik Sethi,Student at NIT Kurukshetra.
-- 👀 I’m interested in exploring new domains. 
-- 🌱 I’m currently learning and practicing Web Development.
-- 💞️ I’m looking to collaborate on projects of Web Development. 
-- 💬 Ask me about anything I'm happy to help🤝
-- 📫 How to reach me🎶....
-- Mail : ritiksethi21@gmail.com
-- Contact : +919053191376
+
 <h1 align="center">Hi 👋, I'm Ritik Sethi, Student at NIT Kurukshetra</h1>
 <h3 align="center">👀 I’m interested in exploring new domains.</h3>
 
@@ -19,7 +12,7 @@
 - 👨‍💻 All of my recent projects are available at [https://ritik-sethi.herokuapp.com/](https://ritik-sethi.herokuapp.com/)
 
 - 📫 How to reach me🎶.... **Mail : ritiksethi21@gmail.com**
-
+- Contact : +919053191376
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ritik-sethi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritik-sethi" height="30" width="40" /></a>
