@@ -1,6 +1,7 @@
 ![Capture](https://user-images.githubusercontent.com/58940080/120515776-48711200-c3ec-11eb-8014-d6df1e8d08da.PNG)
 
-<h1 align="center">Hi 👋, I'm Ritik Sethi, Student at NIT Kurukshetra</h1>
+<h1 align="center">Hi 👋, I'm Ritik Sethi, Devops-Developer at Adobe Systems, India.</h1>
+<h2 align="center"> Completed by Engineering from N.I.T Kurukshetra. </h2> 
 <h3 align="center">👀 I’m interested in exploring new domains.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritiksethi21&label=Profile%20views&color=0e75b6&style=flat" alt="ritiksethi21" /> </p>
